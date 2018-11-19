@@ -6,8 +6,8 @@
 
 <div>This project contains BIT WAD 2</div>
 
-	<h2>♦ PHP Examples.</h2>
-
+<h2>♦ PHP Examples.</h2>
+	
 <ul>
 	<li>Example 01 : <a href="01-hello-world/">Hello World!</a></li>
 	<li>Example 02 : <a href="02-mail-using-variables/">Email using variables</a></li>
