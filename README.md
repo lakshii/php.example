@@ -1,8 +1,8 @@
-# php.example
+<h1 align="center">BIT PHP Example</h1>
 
-<center><div>
+<div>
 	<img src="resources/php-logo.png" align="center" alt="PHP LOGO">
-</div></center>
+</div>
 
 This project contains BIT WAD 2 
 
