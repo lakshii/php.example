@@ -20,7 +20,9 @@
 	<section>
 
 		<main>
-
+			<div>
+				<img src="00-resources/php-logo.png" align="center" alt="PHP LOGO">
+			</div>
 			<ul>
 				<li>Example 01 : <a href="01-hello-world/">Hello World!</a></li>
 				<li>Example 02 : <a href="02-mail-using-variables/">Email using variables</a></li>
