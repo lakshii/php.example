@@ -1,8 +1,8 @@
 # php.example
 
-<div style="align-content: center;">
+<center><div>
 	<img src="resources/php-logo.png" align="center" alt="PHP LOGO">
-</div>
+</div></center>
 
 This project contains BIT WAD 2 
 
