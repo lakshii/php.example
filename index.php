@@ -21,7 +21,7 @@
 
 		<main>
 			<div>
-				<img src="00-resources/php-logo.png" align="center" alt="PHP LOGO">
+				<img style="margin:0px auto;display:block" src="00-resources/php-logo.png" alt="PHP LOGO">
 			</div>
 			<ul>
 				<li>Example 01 : <a href="01-hello-world/">Hello World!</a></li>
