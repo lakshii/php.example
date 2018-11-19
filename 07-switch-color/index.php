@@ -21,6 +21,8 @@
 			
 			$color = "green";
 
+			echo "Current Color is $color <br><br>";
+
 			if ($color=="red") 
 				echo "<div style='color:red'>STOP</div>";
 			elseif($color=="green")
@@ -36,6 +38,9 @@
 
 
 
+
+
+	<br><br><p style="font-size: 20px;">#IF COLOR IS RED "<font style="color:red">STOP</font>" WILL SHOW IN <font style="color:red">RED</font>. IF IT'S GREEN "<font style="color:green">GO</font>" IN <font style="color:green">GREEN</font></p>
 
 
 	</main>
