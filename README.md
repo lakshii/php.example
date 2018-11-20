@@ -17,3 +17,5 @@
 	<li>Example 06 : <a href="06-switch-month-using-cases/index.php">Switch Month Using Cases</a></li>
 	<li>Example 07 : <a href="07-switch-color/index.php">Switch Color</a></li>
 </ul>
+
+<div style="font-size: 50px">Newer Examples will be added.</div>
