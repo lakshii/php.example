@@ -20,4 +20,4 @@
 
 <div style="font-size: 50px">Newer Examples will be added.</div>
 
-<div style="font-size: 20px;text-align=right;">Last updated : 21<sup>st</sup> Nov</div>
+<div style="font-size: 20px;text-align:right;>Last updated : 21<sup>st</sup> Nov</div>
