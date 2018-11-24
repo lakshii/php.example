@@ -31,6 +31,7 @@
 				<li>Example 05 : <a href="05-exam-results-using-marks/">Exam Results using Marks</a></li>
 				<li>Example 06 : <a href="06-switch-month-using-cases/">Switch Month Using Cases</a></li>
 				<li>Example 07 : <a href="07-switch-color/">Switch Color</a></li>
+				<li></li>
 			</ul>
 
 		</main>
